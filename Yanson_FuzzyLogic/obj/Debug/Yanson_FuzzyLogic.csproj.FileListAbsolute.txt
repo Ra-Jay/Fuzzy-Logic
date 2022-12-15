@@ -1,0 +1,18 @@
+D:\College\BSCS\CS Year 3\CS FIRST SEM C2\Intelligent  Systems\Yanson_FuzzyLogic\bin\Debug\Yanson_FuzzyLogic.exe
+D:\College\BSCS\CS Year 3\CS FIRST SEM C2\Intelligent  Systems\Yanson_FuzzyLogic\bin\Debug\Yanson_FuzzyLogic.pdb
+D:\College\BSCS\CS Year 3\CS FIRST SEM C2\Intelligent  Systems\Yanson_FuzzyLogic\obj\Debug\Yanson_FuzzyLogic.csproj.AssemblyReference.cache
+D:\College\BSCS\CS Year 3\CS FIRST SEM C2\Intelligent  Systems\Yanson_FuzzyLogic\obj\Debug\Yanson_FuzzyLogic.Form1.resources
+D:\College\BSCS\CS Year 3\CS FIRST SEM C2\Intelligent  Systems\Yanson_FuzzyLogic\obj\Debug\Yanson_FuzzyLogic.Properties.Resources.resources
+D:\College\BSCS\CS Year 3\CS FIRST SEM C2\Intelligent  Systems\Yanson_FuzzyLogic\obj\Debug\Yanson_FuzzyLogic.csproj.GenerateResource.cache
+D:\College\BSCS\CS Year 3\CS FIRST SEM C2\Intelligent  Systems\Yanson_FuzzyLogic\obj\Debug\Yanson_FuzzyLogic.csproj.CoreCompileInputs.cache
+D:\College\BSCS\CS Year 3\CS FIRST SEM C2\Intelligent  Systems\Yanson_FuzzyLogic\obj\Debug\Yanson_FuzzyLogic.exe
+D:\College\BSCS\CS Year 3\CS FIRST SEM C2\Intelligent  Systems\Yanson_FuzzyLogic\obj\Debug\Yanson_FuzzyLogic.pdb
+C:\Users\raul jay\Desktop\Yanson_FuzzyLogic\Yanson_FuzzyLogic\bin\Debug\Yanson_FuzzyLogic.exe
+C:\Users\raul jay\Desktop\Yanson_FuzzyLogic\Yanson_FuzzyLogic\bin\Debug\Yanson_FuzzyLogic.pdb
+C:\Users\raul jay\Desktop\Yanson_FuzzyLogic\Yanson_FuzzyLogic\obj\Debug\Yanson_FuzzyLogic.csproj.AssemblyReference.cache
+C:\Users\raul jay\Desktop\Yanson_FuzzyLogic\Yanson_FuzzyLogic\obj\Debug\Yanson_FuzzyLogic.Form1.resources
+C:\Users\raul jay\Desktop\Yanson_FuzzyLogic\Yanson_FuzzyLogic\obj\Debug\Yanson_FuzzyLogic.Properties.Resources.resources
+C:\Users\raul jay\Desktop\Yanson_FuzzyLogic\Yanson_FuzzyLogic\obj\Debug\Yanson_FuzzyLogic.csproj.GenerateResource.cache
+C:\Users\raul jay\Desktop\Yanson_FuzzyLogic\Yanson_FuzzyLogic\obj\Debug\Yanson_FuzzyLogic.csproj.CoreCompileInputs.cache
+C:\Users\raul jay\Desktop\Yanson_FuzzyLogic\Yanson_FuzzyLogic\obj\Debug\Yanson_FuzzyLogic.exe
+C:\Users\raul jay\Desktop\Yanson_FuzzyLogic\Yanson_FuzzyLogic\obj\Debug\Yanson_FuzzyLogic.pdb
